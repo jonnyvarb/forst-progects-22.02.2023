@@ -1,0 +1,9 @@
+value = input('Введите значение')
+
+for i in range(10):
+    for _ in range(10):
+        result = i * _
+        print(result, end = '/t')
+    print()
+
+print(value)
