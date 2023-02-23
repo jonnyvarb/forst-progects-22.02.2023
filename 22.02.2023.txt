@@ -7,3 +7,5 @@ for i in range(10):
     print()
 
 print(value)
+
+print('Всех с 23 феврля')
