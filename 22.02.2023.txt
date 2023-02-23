@@ -9,3 +9,4 @@ for i in range(10):
 print(value)
 
 print('Всех с 23 феврля')
+print('Мирного неба над головой')
