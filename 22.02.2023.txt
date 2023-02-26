@@ -1,4 +1,5 @@
 value = input('Введите значение')
+print('Првет, я мастре')
 
 for i in range(10):
     for _ in range(10):
