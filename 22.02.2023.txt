@@ -7,3 +7,4 @@ for i in range(10):
     print()
 
 print(value)
+print('Мой номер +375445888917')
