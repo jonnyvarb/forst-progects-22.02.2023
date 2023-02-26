@@ -8,8 +8,15 @@ for i in range(10):
     print()
 
 print(value)
-<<<<<<< HEAD
-=======
 print('Привет, меня зовут Женя')
 print('Мой номер +375445888917')
->>>>>>> new-contacts
+
+print('Таблица умножения до 100')
+for i in range(100):
+    for _ in range(100):
+        result = i * _
+        print(result, end = '/t')
+    print()
+
+
+
