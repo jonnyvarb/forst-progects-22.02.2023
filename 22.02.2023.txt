@@ -6,4 +6,21 @@ for i in range(10):
         print(result, end = '/t')
     print()
 
+for i in range(100):
+    for _ in range(100):
+        result = i * _
+        print(result, end = '/t')
+    print()
+
+for i in range(1000):
+    for _ in range(1000):
+        result = i * _
+        print(result, end = '/t')
+    print()
+
+for i in range(9999):
+    for _ in range(9999):
+        result = i * _
+        print(result, end = '/t')
+    print()
 print(value)
