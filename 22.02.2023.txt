@@ -8,3 +8,8 @@ for i in range(10):
     print()
 
 print(value)
+<<<<<<< HEAD
+=======
+print('Привет, меня зовут Женя')
+print('Мой номер +375445888917')
+>>>>>>> new-contacts
